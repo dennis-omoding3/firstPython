@@ -20,3 +20,12 @@ print("the variable containing",b, "is",type(b))
 print("the variable containing",c,"is",type(c))
 print("the var containing",d,"is",type(d))
 print("the var contatining",f,"is",type(f))
+
+#data types
+# integer
+# float
+# string
+# boolean
+# list
+# tuple
+# dictionary
