@@ -2,8 +2,8 @@
 first_name="dennis"
 last_name="omoding"
 #use .format to concatenate
-#full_name="{}{}".format(first_name,last_name)
-#print(full_name
+full_name="{}{}".format(first_name,last_name)
+print(full_name)
 print("the tallest person is {} from the family of {}".format(first_name,last_name))
 #full_name=first_name+" "+last_name
 #print(full_name)
@@ -36,3 +36,9 @@ print(jina[1:6])
 print(jina[::-1])
 print(jina.split()) #splits the string
 print(sen.split())
+clubs=["manchester_utd", "tottenham", "chelsea","watford"]
+clubs[0]="wolves" #replaces the club in position 1 with another club
+print(clubs)
+team=clubs.replace("tottenham","stoke")
+print(team)
+#data structures
