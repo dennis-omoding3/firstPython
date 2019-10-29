@@ -52,7 +52,10 @@
 
 #change good morning to good evening
 
-def replace_name():
-    greeting="good morning"
-    print(greeting.replace("morning","evening"))
-replace_name()
+# def replace_name():
+#     greeting="good morning"
+#     print(greeting.replace("morning","evening"))
+# replace_name()
+
+
+#assignment

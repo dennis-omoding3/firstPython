@@ -5,14 +5,14 @@ last_name="omoding"
 full_name="{}{}".format(first_name,last_name)
 print(full_name)
 print("the tallest person is {} from the family of {}".format(first_name,last_name))
-#full_name=first_name+" "+last_name
-#print(full_name)
-
-names="dennis omoding"
-name2="brian bett"
-name3="brigid bett"
-print(names.capitalize())
-print(name2.title())
+# #full_name=first_name+" "+last_name
+# #print(full_name)
+#
+# names="dennis omoding"
+# name2="brian bett"
+# name3="brigid bett"
+# print(names.capitalize())
+# print(name2.title())
 print(name3.upper())
 
 sen="i am going to have dinner because dinner makes me stronger"
